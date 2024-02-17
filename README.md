@@ -6,23 +6,37 @@ I’m thinking about what value I should live for through my skills.
 
 ### Experience
 **Yahoo Japan Place**
+
 Period: Nov 22 ~ present
+
 Tech stack: Next.js, Vanilla-extract, recoil, Storybook, jest, Nest.js, SEO
 
+
 **Line Place**
+
 Period: Nov 21 ~ Nov 22
+
 Tech stack: React, Nest.js, GraphQL, MongoDB, SEO
 
+
 **Vlive**
+
 Period: Jan 20 ~ Nov 21
+
 Tech stack: React, Redux-saga, Ansible, Express, Nginx, pm2
 
+
 **WAV Media**
+
 Period: Aug 16 ~ Jan 20
+
 Tech stack: Spring, MySQL, Redis, Flum, Kafka, Storm, jQuery, React, Express, Nginx, Apache, ANsible
 
+
 **Ksign**
+
 Period: Jun 14 ~ Aug 16
+
 Tech stack: Spring, jQuery
 
 ### Activity
