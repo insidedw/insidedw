@@ -1,7 +1,10 @@
 ### Hi there 👋
-Daewoong Kim is a web developer since 2014. I used to be a full-stack developer, but I currently focus on Front-End for a few years. I realized it is so fun to make UI/UX. One thing I always keep in mind while I work is _Always busy, so keep finding the best way to get things done as soon as possible._
+Daewoong Kim is a web developer since 2014. I used to be a full-stack developer, but I currently focus on Front-End for a few years. I realized it is so fun to make UI/UX. One thing I always keep in mind while I work is 'Always busy, so keep finding the best way to get things done as soon as possible.'
 
 _I’m thinking about what value I should live for through my skills._
+
+### Activity
+[Boostcamp Web・Mobile 8th](https://boostcamp.connect.or.kr/) Backend(Node.js) Mentor, 2023
 
 ### Experience
 Yahoo Japan Place
@@ -23,9 +26,6 @@ WAV Media
 Ksign
  - Period: Jun 14 ~ Aug 16
  - Tech stack: Spring, jQuery
-
-### Activity
-[부스트캠프 웹・모바일 8기](https://boostcamp.connect.or.kr/) 백엔드(Node.js) 멘토2023
 
 
 <!--
