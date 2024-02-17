@@ -1,6 +1,5 @@
 ### Hi there 👋
-Daewoong Kim is a web developer since 2014. I used to be a full-stack developer, but I focus on Front-End for a few years.
-Before I start to develop some feature, I try to know why I have to do because I can do better than the feature's requirement.
+Daewoong Kim is a web developer since 2014. I used to be a full-stack developer, but I currently focus on Front-End for a few years. I realized it is so fun to make UI/UX. One thing I always keep in mind while I work is _Always busy, so keep finding the best way to get things done as soon as possible._
 
 _I’m thinking about what value I should live for through my skills._
 
