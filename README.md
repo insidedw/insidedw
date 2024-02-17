@@ -6,11 +6,6 @@ _I’m thinking about what value I should live for through my skills._
 ### Activity
 [Boostcamp Web・Mobile 8th](https://boostcamp.connect.or.kr/) Backend(Node.js) Mentor, 2023
 
-### Education
-![image](https://ik.imagekit.io/crso3ztbifq/portfolio/united-states_76f_Zp7Lz.png?updatedAt=1663308603469) Minnesota State University, Mankato 졸업 2014
-
-![image](https://ik.imagekit.io/crso3ztbifq/portfolio/south-korea_ZmfLqhilh.png?updatedAt=1663308603561) 선린 인터넷 고등학교 졸업 2007
-
 ### Experience
 Yahoo Japan Place
  - Period: Nov 22 ~ present
