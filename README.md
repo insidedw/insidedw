@@ -19,7 +19,7 @@ Vlive
 
 WAV Media
  - Period: Aug 16 ~ Jan 20
- - Tech stack: Spring, MySQL, Redis, Flum, Kafka, Storm, jQuery, React, Express, Nginx, Apache, ANsible
+ - Tech stack: Spring, MySQL, Redis, Flum, Kafka, Storm, jQuery, React, Express, Nginx, Apache, Ansible
 
 Ksign
  - Period: Jun 14 ~ Aug 16
