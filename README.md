@@ -9,36 +9,40 @@ Yahoo Japan Place
  - Period: Nov 22 ~ present
  - Tech stack: Next.js, Vanilla-extract, recoil, Storybook, jest, Nest.js, SEO
 
+Line Place
+ - Period: Nov 21 ~ Nov 22
+ - Tech stack: React, Nest.js, GraphQL, MongoDB, SEO
 
-**Line Place**
+Vlive
+ - Period: Jan 20 ~ Nov 21
+ - Tech stack: React, Redux-saga, Ansible, Express, Nginx, pm2
 
-Period: Nov 21 ~ Nov 22
+WAV Media
+ - Period: Aug 16 ~ Jan 20
+ - Tech stack: Spring, MySQL, Redis, Flum, Kafka, Storm, jQuery, React, Express, Nginx, Apache, ANsible
 
-Tech stack: React, Nest.js, GraphQL, MongoDB, SEO
-
-
-**Vlive**
-
-Period: Jan 20 ~ Nov 21
-
-Tech stack: React, Redux-saga, Ansible, Express, Nginx, pm2
-
-
-**WAV Media**
-
-Period: Aug 16 ~ Jan 20
-
-Tech stack: Spring, MySQL, Redis, Flum, Kafka, Storm, jQuery, React, Express, Nginx, Apache, ANsible
-
-
-**Ksign**
-
-Period: Jun 14 ~ Aug 16
-
-Tech stack: Spring, jQuery
+Ksign
+ - Period: Jun 14 ~ Aug 16
+ - Tech stack: Spring, jQuery
 
 ### Activity
 [부스트캠프 웹・모바일 8기](https://boostcamp.connect.or.kr/) 백엔드(Node.js) 멘토2023
+
+
+<!--
+**insidedw/insidedw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -58,18 +62,4 @@ Tech stack: Spring, jQuery
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
-
-<!--
-**insidedw/insidedw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
