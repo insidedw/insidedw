@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsidedw&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 ### Hi there 👋
 Daewoong Kim is a web developer since 2014. I used to be a full-stack developer, but I currently focus on Front-End for a few years since I realized it is so fun to make UI/UX. One thing I always keep in mind while I work is 'Always busy, so keep finding the best way to get things done as soon as possible.'
 
@@ -9,27 +6,11 @@ _I’m thinking about what value I should live for through my skills._
 ### Activity
 [Boostcamp Web・Mobile 8th](https://boostcamp.connect.or.kr/) Backend(Node.js) Mentor, 2023
 
-### Experience
-Yahoo Japan Place
- - Period: Nov 22 ~ present
- - Tech stack: Next.js, Vanilla-extract, recoil, Storybook, jest, Nest.js, SEO
+### Interest
+ - Web Performance Improvement
+ - Mentoring
 
-Line Place
- - Period: Nov 21 ~ Nov 22
- - Tech stack: React, Nest.js, GraphQL, MongoDB, SEO
-
-Vlive
- - Period: Jan 20 ~ Nov 21
- - Tech stack: React, Redux-saga, Ansible, Express, Nginx, pm2
-
-WAV Media
- - Period: Aug 16 ~ Jan 20
- - Tech stack: Spring, MySQL, Redis, Flum, Kafka, Storm, jQuery, React, Express, Nginx, Apache, Ansible
-
-Ksign
- - Period: Jun 14 ~ Aug 16
- - Tech stack: Spring, jQuery
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsidedw&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **insidedw/insidedw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
