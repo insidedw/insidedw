@@ -5,11 +5,9 @@ Before I start to develop some feature, I try to know why I have to do because I
 I’m thinking about what value I should live for through my skills.
 
 ### Experience
-**Yahoo Japan Place**
-
-Period: Nov 22 ~ present
-
-Tech stack: Next.js, Vanilla-extract, recoil, Storybook, jest, Nest.js, SEO
+Yahoo Japan Place
+ - Period: Nov 22 ~ present
+ - Tech stack: Next.js, Vanilla-extract, recoil, Storybook, jest, Nest.js, SEO
 
 
 **Line Place**
