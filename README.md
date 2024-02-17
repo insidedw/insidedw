@@ -2,7 +2,7 @@
 Daewoong Kim is a web developer since 2014. I used to be a full-stack developer, but I focus on Front-End for a few years.
 Before I start to develop some feature, I try to know why I have to do because I can do better than the feature's requirement.
 
-I’m thinking about what value I should live for through my skills.
+_I’m thinking about what value I should live for through my skills._
 
 ### Experience
 Yahoo Japan Place
