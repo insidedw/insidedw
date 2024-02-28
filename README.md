@@ -1,4 +1,4 @@
-# Learn, Assure, Continue.
+# Learn, Assure, and Continue.
 
 ## Activity
 [Boostcamp Web・Mobile 8th](https://boostcamp.connect.or.kr/) Backend(Node.js) Mentor, 2023
