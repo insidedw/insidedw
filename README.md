@@ -4,14 +4,14 @@
 [Boostcamp Web・Mobile 8th](https://boostcamp.connect.or.kr/) Backend(Node.js) Mentor, 2023
 
 
-### 👨‍💼 Experience
+### Experience
 - Yahoo Japan Map, NAVER (Nov 2022 ~ Present)
 - Line Place, NAVER (Nov 2021 - Nov 2022)
 - Vlive, NAVER (Jan 2020 - Nov 2021)
 - WAV, NAVER (Aug 2016 - Jan 2020)
 - SEO & EAM Solution, Ksign (June 2014 - Aug 2016)
 
-### 🛠 Tech Stack
+### Tech Stack
 #### Frameworks & Languages
 <table width="320px">
   <tbody>
