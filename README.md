@@ -104,7 +104,7 @@
   </tbody>
 </table>
 
-#### infra
+#### Infra
 <table width="320px">
   <tbody>
     <tr valign="top">
