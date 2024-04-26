@@ -1,12 +1,106 @@
-# Learn, Assure, and Continue.
+## Learn, Assure, and Continue.
 
-## Activity
+### Activity
 [Boostcamp Web・Mobile 8th](https://boostcamp.connect.or.kr/) Backend(Node.js) Mentor, 2023
 
-## Interest
-Web Performance Improvement on Browser side
+
+### 👨‍💼 Experience
+- Yahoo Japan Map, NAVER (Nov 2022 ~ Present)
+- Line Place, NAVER (Nov 2021 - Nov 2022)
+- Vlive, NAVER (Jan 2020 - Nov 2021)
+- WAV, NAVER (Aug 2016 - Jan 2020)
+- SEO & EAM Solution, Ksign (June 2014 - Aug 2016)
+
+### 🛠 Tech Stack
+#### Frameworks & Languages
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Spring</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+      </td>
+      <td align="center">
+        <span><strong>React.js</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Node.js</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>JavaScript</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Java</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>TypeScript</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### Database
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>MySql</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Redis</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>MongoDB</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### Tools
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Git</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      </td>
+      <td align="center">
+        <span><strong>Intelij</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+      </td>
+       <td width="80px" align="center">
+        <span><strong>Jira</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+      </td>
+       <td width="80px" align="center">
+        <span><strong>Jenkins</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Docker</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsidedw&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 <!--
 **insidedw/insidedw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
