@@ -92,10 +92,41 @@
         <span><strong>Docker</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
       </td>
+      <td width="80px" align="center">
+        <span><strong>Ansible</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Storybook</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />
+      </td>
     </tr>
   </tbody>
 </table>
 
+#### infra
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>CentOS</strong></span><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" />
+      </td>
+      <td align="center">
+        <span><strong>Apache</strong></span><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
+      </td>
+      <td align="center">
+        <span><strong>Nginx</strong></span><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+      </td>
+       <td width="80px" align="center">
+        <span><strong>Kafka</strong></span><br>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsidedw&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
