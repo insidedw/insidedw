@@ -5,7 +5,8 @@
 
 
 ### Experience
-- Yahoo Japan Map, NAVER (Nov 2022 ~ Present)
+- Naver Map, NAVER (Jun 2024 ~ Present)
+- Yahoo Japan Map, NAVER (Nov 2022 ~ Jun 2024)
 - Line Place, NAVER (Nov 2021 - Nov 2022)
 - Vlive, NAVER (Jan 2020 - Nov 2021)
 - WAV, NAVER (Aug 2016 - Jan 2020)
