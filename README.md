@@ -5,7 +5,8 @@
 
 
 ### Experience
-- Naver Map, NAVER (Jun 2024 ~ Present)
+- Naver Booking, NAVER (Oct 2024 ~ Present)
+- Naver Map, NAVER (Jun 2024 ~ Oct 2024)
 - Yahoo Japan Map, NAVER (Nov 2022 ~ Jun 2024)
 - Line Place, NAVER (Nov 2021 - Nov 2022)
 - Vlive, NAVER (Jan 2020 - Nov 2021)
