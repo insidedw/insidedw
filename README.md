@@ -5,13 +5,15 @@
 
 
 ### Experience
-- Naver Booking, NAVER (Oct 2024 ~ Present)
-- Naver Map, NAVER (Jun 2024 ~ Oct 2024)
-- Yahoo Japan Map, NAVER (Nov 2022 ~ Jun 2024)
-- Line Place, NAVER (Nov 2021 - Nov 2022)
-- Vlive, NAVER (Jan 2020 - Nov 2021)
-- WAV, NAVER (Aug 2016 - Jan 2020)
-- SEO & EAM Solution, Ksign (June 2014 - Aug 2016)
+- Naver
+  - Naver Booking & Order (Oct 2024 ~ Present)
+  - Naver Map (Jun 2024 ~ Oct 2024)
+  - Yahoo Japan Map (Nov 2022 ~ Jun 2024)
+  - Line Place (Nov 2021 - Nov 2022)
+  - Vlive (Jan 2020 - Nov 2021)
+  - WAV (Aug 2016 - Jan 2020)
+- KSign
+  - SEO & EAM Solution, Ksign (June 2014 - Aug 2016)
 
 ### More Info
 [Now, Archive, and Toy Projects](https://daewoong.web.app)
