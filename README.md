@@ -5,15 +5,21 @@
 
 
 ### Experience
-- Naver
-  - Naver Booking & Order (Oct 2024 ~ Present)
-  - Naver Map (Jun 2024 ~ Oct 2024)
-  - Yahoo Japan Map (Nov 2022 ~ Jun 2024)
-  - Line Place (Nov 2021 - Nov 2022)
-  - Vlive (Jan 2020 - Nov 2021)
-  - WAV (Aug 2016 - Jan 2020)
-- KSign
-  - SEO & EAM Solution, Ksign (June 2014 - Aug 2016)
+- Naver (Aug 2016 ~ Present)
+- KSign (June 2014 - Aug 2016)
+
+### Languages (Sorted in the order you've used a lot)
+ - Typescript, HTML, Java, CSS, Kotlin, Python
+
+### Skills
+ - FE
+   - SEO
+   - Web Performance Optimization
+ - BFF
+   - Cache using Varnish, Redis, and local memory
+   - Resilient using Circuit Breaker
+   - Real-time user behavior analytics using Kafka-based pipeline
+
 
 ### More Info
 [Now, Archive, and Toy Projects](https://daewoong.web.app)
