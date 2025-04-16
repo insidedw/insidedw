@@ -8,7 +8,7 @@
 - Naver (Aug 2016 ~ Present)
 - KSign (June 2014 - Aug 2016)
 
-### Languages (Sorted in the order you've used a lot)
+### Languages (Sorted in the order I've used a lot)
  - Typescript, HTML, Java, CSS, Kotlin, Python
 
 ### Skills
